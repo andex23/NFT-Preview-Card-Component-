@@ -1,11 +1,10 @@
-# Frontend Mentor - NFT preview card component solution
+ NFT preview card component solution
+
+(https://andex23.github.io/NFT-Preview-Card-Component-/)
 
 
-- Solution URL: (https://your-solution-url.com)
 
-
-
-### Built with
+Built with
 
 HTML & CSS
 - 
